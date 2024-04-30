@@ -4,7 +4,7 @@
 <h2 align="center">A passionate frontend developer, MKT Digital, Business Dev and Data Science.</h2>
 <br>
 
-<h3>📫 How to reach me **carlosmejiaconsulting@gmail.com** ,  **carlosmejiadeveloper@gmail.com**</h3>
+<h3>📫 How to reach me **carlosmejiarias@gmail.com** ,  **carlosmejiadeveloper@gmail.com**</h3>
  <br>
  <p align="center">Disponible para realizar trabajos de posicionamiento SEO, SEM, ademas de estrategias en MKT digital y analisis de datos. </p>
 <br>
