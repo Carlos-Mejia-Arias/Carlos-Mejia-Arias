@@ -1,10 +1,16 @@
-<h1 align="center">Hi 👋, I'm Carlos Mejía</h1><br>
+<h1 align="center">Hola 👋, Soy Carlos Mejía</h1><br>
 
 
-<h2 align="center">A passionate frontend developer, MKT Digital, Business Dev and Data Science.</h2>
+<h2 align="center">Una persona apasionada por la data science y analisis de datos.</h2>
 <br>
 
-<h3>📫 How to reach me **carlosmejiarias@gmail.com** ,  **carlosmejiadeveloper@gmail.com**</h3>
+<h3>📫 Como contactarme **carlosmejiarias@gmail.com**</h3>
+<br>
+<ul>
+  <li>**carlosmejiarias@gmail.com**</li>
+  <li>+34 632606207</li>
+  <li>+502 51414886</li>
+</ul>
  <br>
  <p align="center">Disponible para realizar trabajos de posicionamiento SEO, SEM, ademas de estrategias en MKT digital y analisis de datos. </p>
 <br>
