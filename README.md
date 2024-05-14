@@ -5,7 +5,6 @@
 <br>
 
 <h3>📫 Como contactarme:</h3>
-<br>
 <dl>
   <dt>Mi correo:</dt>
   <dd><a href="mailto:carlosmejiarias@gmail.com">carlosmejiarias@gmail.com</a></dd>
@@ -14,6 +13,7 @@
   <dt>Móvil Guatemala - en caso de no estar en España, me puedes llamar a este número:</dt>
   <dd><a href="tel:+50251414886">+502 51 41 48 86</a></dd>
 </dl>
+ <br>
  <br>
  <p align="center">Mi perfil con enfoque al MKT digital, desarrollo de negocio, y mis estudios en Data Science, me da la visión amplia que toda empresa necesita de un Data Scientist, para poder marcar objetivos, analizar datos y encontrar outliers e insight, que luego llevaran a realizar dashboards y modelos, que ayuden a las empresas a realmente tomar decisiones basadas en datos. </p>
 <br>
