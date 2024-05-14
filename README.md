@@ -4,7 +4,7 @@
 <h2 align="center">Una persona apasionada por la data science y analisis de datos.</h2>
 <br>
 
-<h3>📫 Como contactarme **carlosmejiarias@gmail.com**</h3>
+<h3>📫 Como contactarme:</h3>
 <br>
 <dl>
   <dt>Mi correo:</dt>
