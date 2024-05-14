@@ -6,13 +6,16 @@
 
 <h3>📫 Como contactarme **carlosmejiarias@gmail.com**</h3>
 <br>
-<ul>
-  <li>**carlosmejiarias@gmail.com**</li>
-  <li>+34 632606207</li>
-  <li>+502 51414886</li>
-</ul>
+<dl>
+  <dt>Mi correo:</dt>
+  <dd><a href="mailto:carlosmejiarias@gmail.com">carlosmejiarias@gmail.com</a></dd>
+  <dt>Móvil España | WhatsApp</dt>
+  <dd><a href="tel:+34632606207">+34 63 26 06 207</a></dd>
+  <dt>Móvil Guatemala - en caso de no estar en España, me puedes llamar a este número:</dt>
+  <dd><a href="tel:+50251414886">+502 51 41 48 86</a></dd>
+</dl>
  <br>
- <p align="center">Disponible para realizar trabajos de posicionamiento SEO, SEM, ademas de estrategias en MKT digital y analisis de datos. </p>
+ <p align="center">Mi perfil con enfoque al MKT digital, desarrollo de negocio, y mis estudios en Data Science, me da la visión amplia que toda empresa necesita de un Data Scientist, para poder marcar objetivos, analizar datos y encontrar outliers e insight, que luego llevaran a realizar dashboards y modelos, que ayuden a las empresas a realmente tomar decisiones basadas en datos. </p>
 <br>
 ### About mi 👋
 
