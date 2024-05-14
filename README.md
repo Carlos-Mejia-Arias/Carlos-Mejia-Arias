@@ -22,7 +22,7 @@
 
 <h3 align="left">Mi repositorio:</h3>
 <p>
-El repositorio se encuentra organizado en listas de Stars, para que sea mas facil de encontrar lo que deseas, en este momento encontraras dos modulos:
+El repositorio se encuentra organizado en listas de Stars, para que sea más fácil de encontrar lo que deseas.  En este momento encontrarás dos módulos:
 <ul>
   <li>Data Science</li>
   <li>Html, CSS y JavaScript</li>
