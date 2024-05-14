@@ -17,7 +17,8 @@
  <br>
  <p align="center">Mi perfil con enfoque al MKT digital, desarrollo de negocio, y mis estudios en Data Science, me da la visión amplia que toda empresa necesita de un Data Scientist, para poder marcar objetivos, analizar datos y encontrar outliers e insight, que luego llevaran a realizar dashboards y modelos, que ayuden a las empresas a realmente tomar decisiones basadas en datos. </p>
 <br>
-### Sobre mí 👋
+
+ <h2>Sobre mí</h2> 👋
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="center">
