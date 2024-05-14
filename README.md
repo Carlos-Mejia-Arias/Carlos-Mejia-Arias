@@ -17,14 +17,14 @@
  <br>
  <p align="center">Mi perfil con enfoque al MKT digital, desarrollo de negocio, y mis estudios en Data Science, me da la visión amplia que toda empresa necesita de un Data Scientist, para poder marcar objetivos, analizar datos y encontrar outliers e insight, que luego llevaran a realizar dashboards y modelos, que ayuden a las empresas a realmente tomar decisiones basadas en datos. </p>
 <br>
-### About mi 👋
+### Sobre mí 👋
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecta conmigo:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/carlos mejía" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos mejía" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/carlos-f-mejia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos mejía" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y herramientas:</h3>
 <p align="center"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/> </a> 
