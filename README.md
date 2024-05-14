@@ -21,7 +21,7 @@
 <br>
 
 <h3 align="left">Mi repositorio:</h3>
-<p align="center">
+<p>
 El repositorio se encuentra organizado en listas de Stars, para que sea mas facil de encontrar lo que deseas, en este momento encontraras dos modulos:
 <ul>
   <li>Data Science</li>
