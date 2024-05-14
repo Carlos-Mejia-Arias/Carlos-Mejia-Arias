@@ -14,9 +14,8 @@
   <dd><a href="tel:+50251414886">+502 51 41 48 86</a></dd>
 </dl>
  <br>
- <br>
 
- <h2>Sobre mí 👋</h2>
+ <h2>Sobre mí  👋</h2>
 <br>
   <p align="center">Mi perfil con enfoque al MKT digital, desarrollo de negocio, y mis estudios en Data Science, me da la visión amplia que toda empresa necesita de un Data Scientist, para poder marcar objetivos, analizar datos y encontrar outliers e insight, que luego llevaran a realizar dashboards y modelos, que ayuden a las empresas a realmente tomar decisiones basadas en datos. </p>
 <br>
@@ -48,6 +47,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Carlos-Mejia-Arias&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<br>
 # Pythontablet
 # Pythontablet
 # Pythontablet
