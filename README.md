@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Carlos Mejía</h1><br>
 
 
-<h2 align="center">Una persona apasionada por la data science y analisis de datos.</h2>
+<h2 align="center">Una persona apasionada por el data science y analisis de datos, en busqueda de aprender y mejorar para lograr mis objetivos.</h2>
 <br>
 
 <h3>📫 Como contactarme:</h3>
