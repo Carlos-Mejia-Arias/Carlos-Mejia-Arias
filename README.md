@@ -10,8 +10,6 @@
   <dd><a href="mailto:carlosmejiarias@gmail.com">carlosmejiarias@gmail.com</a></dd>
   <dt>Móvil España | WhatsApp</dt>
   <dd><a href="tel:+34632606207">+34 63 26 06 207</a></dd>
-  <dt>Móvil Guatemala - en caso de no estar en España, me puedes llamar a este número:</dt>
-  <dd><a href="tel:+50251414886">+502 51 41 48 86</a></dd>
 </dl>
  <br>
 
