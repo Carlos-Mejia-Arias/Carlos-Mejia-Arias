@@ -18,7 +18,7 @@ He analizado datos de diferentes fuentes que han servido para el diseño y optim
 Organizado en repositorios generales, donde iré publicando diferentes archivos por temática 
 </p>
 <ul>
-  <li><strong>ML-Models:</strong> encontrarás todos los modelos de Machine Learning y Deep Learning que he realizado.</li>
+  <li><strong>Models:</strong> encontrarás todos los modelos de Machine Learning y Deep Learning que he realizado.</li>
   <li><strong>Visualizations:</strong> archivos de diferentes visualizaciones que he realizado.</li>
   <li><strong>SQL:</strong> ejercicios y publicaciones sobre SQL realizados a lo largo del tiempo.</li>
   <li><strong>Teach:</strong> Un lugar donde subo diferentes archivos que voy subiendo a LinkedIn para apoyar a aquellas personas que desean aprender sobre temas de programación  y Data Science.</li>
@@ -75,7 +75,7 @@ I have analyzed data from different sources that have served for the design and 
 Organized in general repositories, where I will be publishing different files by subject. 
 </p>
 <ul>
-  <li><strong>ML-Models:</strong>you will find all the Machine Learning and Deep Learning models I have made.</li>
+  <li><strong>Models:</strong>you will find all the Machine Learning and Deep Learning models I have made.</li>
   <li><strong>Visualizations:</strong>files of different visualizations that I have done.</li>
   <li><strong>SQL:</strong>exercises and publications on SQL done over time.</li>
   <li><strong>Teach:</strong> A place where I upload different files that I upload to LinkedIn to support those people who want to learn about programming and Data Science topics.</li>
