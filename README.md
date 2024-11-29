@@ -1,5 +1,5 @@
 <a href="#en">Inglés</a>
-<h1 align="center"  href="#esp">Hola 👋, Soy Carlos Mejía</h1><br>
+<h1 align="center"  id="esp">Hola 👋, Soy Carlos Mejía</h1><br>
 
 
 <h2 align="center">Una persona apasionada por el Data Science, el análisis de datos y el análisis de datos de marketing digital.</h2>
@@ -119,6 +119,7 @@ Organized in general repositories, where I will be publishing different files by
 </a>
 </p>
 <br>
-<div><a href="#en">Inglés</a></div><div><a href="#esp">Español</a></div>
+<div><a href="#en">Inglés</a></div>
+<div><a href="#esp">Español</a></div>
 
 <br><br>
