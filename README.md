@@ -1,4 +1,4 @@
-<a href="#en">Ingles</a>
+<a href="#en">Inglés</a>
 <h1 align="center"  href="#esp">Hola 👋, Soy Carlos Mejía</h1><br>
 
 
@@ -53,7 +53,7 @@ Organizado en repositorios generales, donde iré publicando diferentes archivos 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/> </a> </p>
 </div>
  <br> <br>
-<hr id="Ingles">
+<hr id="en">
 <br>
 <br>
  <h1 align="center" >Hi 👋, i'm Carlos Mejía</h1><br>
